@@ -1,5 +1,4 @@
 {
-  "readme": "This is text database for neutrino physics. mass-squared-difference is in unit of eV^2. flavors; mixing-angles-sin2theta-squared; mass-squared-difference; mass-squared-difference-tex; mixing-angles-sin2theta-squared; mixing-angles-sin2theta-squared-tex;",
   "flavors": [
     "e",
     "mu",
@@ -22,5 +21,6 @@
     "12": "0.846 \\pm 0.021",
     "13": "0.085 \\pm 0.005",
     "23": "0.999 ^{+0.001}_{-0.018}"
-  }
+  },
+  "readme": "This is text database for neutrino physics. mass-squared-difference is in unit of eV^2. flavors; mixing-angles-sin2theta-squared; mass-squared-difference; mass-squared-difference-tex; mixing-angles-sin2theta-squared; mixing-angles-sin2theta-squared-tex;"
 }
