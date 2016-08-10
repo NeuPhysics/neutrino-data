@@ -1,0 +1,16 @@
+{
+  "readme": "This is text database for neutrino physics. mass-squared-difference is in unit of eV^2",
+  "flavors": [
+    "e",
+    "mu",
+    "tau"
+  ],
+  "mass-squared-difference": {
+    "21": 0.0000753,
+    "32": 0.00242
+  },
+  "mass-squared-difference-tex": {
+    "21": "(7.53 \\pm0.18)  \times 10^{-5}",
+    "32": "0.00242 \\pm0.00006"
+  }
+}
